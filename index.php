@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-      <h1 style="color: yellow">Hello, I am Kirill Yatsevich</h1>
+      <h1 style="color: red">Hello, I am Kirill Yatsevich</h1>
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
 </body>
 </html>
